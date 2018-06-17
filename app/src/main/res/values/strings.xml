@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Games Quiz</string>
+    <string name="next">Next</string>
+    <string name="reset">Reset</string>
+    <string name="correctAnswer">Correct answers:</string>
+    <string name="totalTurns">/10</string>
+    <string name="about">This application has been developed by Deepanshu Prajapati . Inspired from Lara Martin.</string>
+</resources>
